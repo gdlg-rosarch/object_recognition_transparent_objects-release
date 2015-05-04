@@ -1,0 +1,12 @@
+Source: ros-jade-object-recognition-transparent-objects
+Section: misc
+Priority: extra
+Maintainer: Ilya Lysenkov <ilya.lysenkov@itseez.com>
+Build-Depends: debhelper (>= 9.0.0), libopenni-dev, ros-jade-catkin, ros-jade-ecto, ros-jade-object-recognition-core, ros-jade-pcl-ros
+Homepage: http://wg-perception.github.io/transparent_objects
+Standards-Version: 3.9.2
+
+Package: ros-jade-object-recognition-transparent-objects
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libopenni-dev, ros-jade-ecto, ros-jade-ecto-opencv, ros-jade-object-recognition-core, ros-jade-pcl-ros
+Description: A technique to recognize and estimate poses of transparent objects
