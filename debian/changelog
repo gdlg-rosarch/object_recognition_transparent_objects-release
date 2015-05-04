@@ -1,0 +1,15 @@
+ros-jade-object-recognition-transparent-objects (0.4.0-0utopic) utopic; urgency=high
+
+  * Fix check regarding whether the file is opened
+  * drop Fuerte support
+  * Contributors: Jordi Pages, Vincent Rabaud
+
+ -- Ilya Lysenkov <ilya.lysenkov@itseez.com>  Sat, 26 Jul 2014 22:00:00 -0000
+
+ros-jade-object-recognition-transparent-objects (0.3.18-0utopic) utopic; urgency=high
+
+  * fix dependencies with PCL
+
+ -- Ilya Lysenkov <ilya.lysenkov@itseez.com>  Wed, 28 Aug 2013 20:27:21 +0200
+
+
