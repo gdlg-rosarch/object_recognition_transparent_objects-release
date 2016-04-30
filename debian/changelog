@@ -1,0 +1,32 @@
+ros-kinetic-object-recognition-transparent-objects (0.4.2-0xenial) xenial; urgency=high
+
+  * add proj as a dependency
+  * Contributors: Vincent Rabaud
+
+ -- Ilya Lysenkov <ilya.lysenkov@itseez.com>  Fri, 29 Apr 2016 22:00:00 -0000
+
+ros-kinetic-object-recognition-transparent-objects (0.4.1-0xenial) xenial; urgency=high
+
+  * get code to compile on Xenial
+  * add explanation for algorithm
+  * clean extensions
+  * cleanup CMake a bit
+  * Contributors: Jordi Pages, Po-Jen Lai, Vincent Rabaud
+
+ -- Ilya Lysenkov <ilya.lysenkov@itseez.com>  Fri, 29 Apr 2016 22:00:00 -0000
+
+ros-kinetic-object-recognition-transparent-objects (0.4.0-0xenial) xenial; urgency=high
+
+  * Fix check regarding whether the file is opened
+  * drop Fuerte support
+  * Contributors: Jordi Pages, Vincent Rabaud
+
+ -- Ilya Lysenkov <ilya.lysenkov@itseez.com>  Sat, 26 Jul 2014 22:00:00 -0000
+
+ros-kinetic-object-recognition-transparent-objects (0.3.18-0xenial) xenial; urgency=high
+
+  * fix dependencies with PCL
+
+ -- Ilya Lysenkov <ilya.lysenkov@itseez.com>  Wed, 28 Aug 2013 20:27:21 +0200
+
+
